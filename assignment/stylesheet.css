@@ -1,12 +1,15 @@
 header {
   background-color: blue;
+  text-align:center;
 }
 
 h3 {
   background-color: tan;
   color: red;
+  text-align: center;
 }
 
 .info {
   background-color: teal;
+  text-align:center;
 }
